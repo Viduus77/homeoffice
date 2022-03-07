@@ -1,0 +1,11 @@
+Model Information:
+* title:	Home office
+* source:	https://sketchfab.com/3d-models/home-office-3a3ace3b2b334dc0ac4524556a2af501
+* author:	Linker_34 (https://sketchfab.com/Linker_34)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Home office" (https://sketchfab.com/3d-models/home-office-3a3ace3b2b334dc0ac4524556a2af501) by Linker_34 (https://sketchfab.com/Linker_34) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
